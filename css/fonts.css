@@ -1,0 +1,90 @@
+@font-face {
+	font-family: "IBMPlexSans";
+	src: url("../fonts/IBMPlexSans/IBMPlexSans.eot");
+	src: url("../fonts/IBMPlexSans/IBMPlexSans.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/IBMPlexSans/IBMPlexSans.woff") format("woff"),
+			 url("../fonts/IBMPlexSans/IBMPlexSans.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "IBMPlexSansLight";
+	src: url("../fonts/IBMPlexSansLight/IBMPlexSansLight.eot");
+	src: url("../fonts/IBMPlexSansLight/IBMPlexSansLight.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/IBMPlexSansLight/IBMPlexSansLight.woff") format("woff"),
+			 url("../fonts/IBMPlexSansLight/IBMPlexSansLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "IBMPlexSansBold";
+	src: url("../fonts/IBMPlexSansBold/IBMPlexSansBold.eot");
+	src: url("../fonts/IBMPlexSansBold/IBMPlexSansBold.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/IBMPlexSansBold/IBMPlexSansBold.woff") format("woff"),
+			 url("../fonts/IBMPlexSansBold/IBMPlexSansBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "IBMPlexSansBoldItalic";
+	src: url("../fonts/IBMPlexSansBoldItalic/IBMPlexSansBoldItalic.eot");
+	src: url("../fonts/IBMPlexSansBoldItalic/IBMPlexSansBoldItalic.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/IBMPlexSansBoldItalic/IBMPlexSansBoldItalic.woff") format("woff"),
+			 url("../fonts/IBMPlexSansBoldItalic/IBMPlexSansBoldItalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "IBMPlexSansItalic";
+	src: url("../fonts/IBMPlexSansItalic/IBMPlexSansItalic.eot");
+	src: url("../fonts/IBMPlexSansItalic/IBMPlexSansItalic.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/IBMPlexSansItalicIBMPlexSansItalic.woff") format("woff"),
+			 url("../fonts/IBMPlexSansItalic/IBMPlexSansItalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "SourceSansProBold";
+	src: url("../fonts/SourceSansProBold/SourceSansProBold.eot");
+	src: url("../fonts/SourceSansProBold/SourceSansProBold.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/SourceSansProBold/SourceSansProBold.woff") format("woff"),
+			 url("../fonts/SourceSansProBold/SourceSansProBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "SourceSansProLight";
+	src: url("../fonts/SourceSansProLight/SourceSansProLight.eot");
+	src: url("../fonts/SourceSansProLight/SourceSansProLight.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/SourceSansProLight/SourceSansProLight.woff") format("woff"),
+			 url("../fonts/SourceSansProLight/SourceSansProLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "MontserratRegular";
+	src: url("../fonts/MontserratRegular/MontserratRegular.eot");
+	src: url("../fonts/MontserratRegular/MontserratRegular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/MontserratRegular/MontserratRegular.woff") format("woff"),
+			 url("../fonts/MontserratRegular/MontserratRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "SFUITextBoldG1";
+	src: url("../fonts/SFUITextBoldG1/SFUITextBoldG1.eot");
+	src: url("../fonts/SFUITextBoldG1/SFUITextBoldG1.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/SFUITextBoldG1/SFUITextBoldG1.woff") format("woff"),
+			 url("../fonts/SFUITextBoldG1/SFUITextBoldG1.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "SFUITextRegularG2";
+	src: url("../fonts/SFUITextRegularG2/SFUITextRegularG2.eot");
+	src: url("../fonts/SFUITextRegularG2/SFUITextRegularG2.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/SFUITextRegularG2/SFUITextRegularG2.woff") format("woff"),
+			 url("../fonts/SFUITextRegularG2/SFUITextRegularG2.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
